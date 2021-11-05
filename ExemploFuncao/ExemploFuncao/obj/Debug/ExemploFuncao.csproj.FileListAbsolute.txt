@@ -1,0 +1,10 @@
+C:\Users\Patrick\source\repos\ExemploFuncao\ExemploFuncao\bin\Debug\ExemploFuncao.exe.config
+C:\Users\Patrick\source\repos\ExemploFuncao\ExemploFuncao\bin\Debug\ExemploFuncao.exe
+C:\Users\Patrick\source\repos\ExemploFuncao\ExemploFuncao\bin\Debug\ExemploFuncao.pdb
+C:\Users\Patrick\source\repos\ExemploFuncao\ExemploFuncao\obj\Debug\ExemploFuncao.csproj.AssemblyReference.cache
+C:\Users\Patrick\source\repos\ExemploFuncao\ExemploFuncao\obj\Debug\ExemploFuncao.ExemploFuncao.resources
+C:\Users\Patrick\source\repos\ExemploFuncao\ExemploFuncao\obj\Debug\ExemploFuncao.Properties.Resources.resources
+C:\Users\Patrick\source\repos\ExemploFuncao\ExemploFuncao\obj\Debug\ExemploFuncao.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\ExemploFuncao\ExemploFuncao\obj\Debug\ExemploFuncao.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\ExemploFuncao\ExemploFuncao\obj\Debug\ExemploFuncao.exe
+C:\Users\Patrick\source\repos\ExemploFuncao\ExemploFuncao\obj\Debug\ExemploFuncao.pdb
